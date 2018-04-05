@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Reload
+## Author: github.com/silly-wet
+## Notes: /rl or /reload to reload the ui
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter:
+## SavedVariables:
+Reload.lua
